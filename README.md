@@ -28,7 +28,9 @@ Save and you’re ready to go.
 Danny Giebe
 Designer & Front-end Developer
 http://www.dannygie.be
-Twitter: @creative_px
+Twitter:[ @creative_px][1]
+
+[1]:	http://www.twitter.com/creative_px
 
 [image-1]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Finder.png?raw=true "Folder"
 [image-2]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Spotlight.png?raw=true "Spotlight"
