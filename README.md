@@ -28,8 +28,9 @@ Save and you’re ready to go.
 Danny Giebe
 Designer & Front-end Developer
 http://www.dannygie.be
+Twitter: @creative_px
 
-[image-1]:	http://dannygie.be/dropshare/Finder-oYLVi2EOX1/ "Folder"
-[image-2]:	http://dannygie.be/dropshare/Spotlight-wUq7c3UFL2/ "Spotlight"
-[image-3]:	http://dannygie.be/dropshare/Projectfolder-mF3c09v7sL/ "Projectfolder"
-[image-4]:	http://dannygie.be/dropshare/Apple-Script-np0lHsLk8x/ "Apple Script"
+[image-1]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Finder.png?raw=true "Folder"
+[image-2]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Spotlight.png?raw=true "Spotlight"
+[image-3]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Projectfolder.png?raw=true "Projectfolder"
+[image-4]:	https://github.com/dgiebe/AS-Projectfolders/blob/master/Screenshots/Apple%20Script%20.png?raw=true "Apple Script"
